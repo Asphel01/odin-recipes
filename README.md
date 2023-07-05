@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to demonstrate the basics of html using various elements that I've learned in order to build a basic recipe website. The website makes use of elements such as headers, unordered lists, ordered lists, anchors to redirect the user to the recipe pages, images and paragraphs.
